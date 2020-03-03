@@ -1,0 +1,23 @@
+p>code, li>code, pre>code {
+    background: #3c3c3c;
+    color: #d03;
+    font-family: monospace;
+    font-size: 15px;
+    line-height: 1.6;
+    overflow: auto;
+    word-wrap: break-word;
+}
+.hljs {
+    background: #3c3c3c;
+    // color: #d03;
+    font-family: monospace;
+    font-size: 15px;
+    line-height: 1.6;
+    overflow: auto;
+    word-wrap: break-word;
+}
+
+.hljs-built_in, .lisp .hljs-title, .clojure .hljs-built_in, .hljs-builtin-name {
+    color: #14a6de;
+}
+
