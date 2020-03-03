@@ -1,6 +1,1 @@
-### ClassicPress Forum Theme Backup
-
-Themes:
-- On Brand
-- Default
-- Dark
+### ClassicPress Forum On Brand Theme Backup
